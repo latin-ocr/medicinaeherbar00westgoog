@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./medicinaeherbar00westgoog_0101.png"; bbox 0 0 1228 2024; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 65 59 504 124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 65 59 504 124">
+     <span class='ocr_line' id='line_1_1' title="bbox 65 59 504 124; baseline 0.018 -13"><span class='ocrx_word' id='word_1_1' title='bbox 65 59 157 112; x_wconf 62' lang='lat' dir='ltr'><em>mn</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 183 71 287 114; x_wconf 73' lang='lat' dir='ltr'>mose.</span> <span class='ocrx_word' id='word_1_3' title='bbox 301 74 342 115; x_wconf 67' lang='grc' dir='ltr'><em>Ετ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 359 75 432 117; x_wconf 47' lang='grc' dir='ltr'><em>ειη,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 465 65 504 124; x_wconf 43' lang='grc' dir='ltr'><em>ἐὴ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 28 148 502 268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 28 148 502 268">
+     <span class='ocr_line' id='line_1_2' title="bbox 39 148 502 222; baseline 0.027 -28"><span class='ocrx_word' id='word_1_6' title='bbox 39 152 93 196; x_wconf 46' lang='grc' dir='ltr'><em>μ’</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 100 154 149 196; x_wconf 55' lang='lat'><em>1⁴12</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 155 153 234 199; x_wconf 55' lang='lat' dir='ltr'><em>rrejirzar</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 241 148 267 216; x_wconf 61' lang='lat' dir='ltr'><em>es</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 266 170 275 197; x_wconf 78' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 282 155 502 217; x_wconf 39' lang='grc' dir='ltr'><em>κγρςαὲνεέἴς,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 451 158 502 222; x_wconf 66' lang='lat' dir='ltr'><strong><em>quifz</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 28 222 217 268; baseline 0.007 -2"><span class='ocrx_word' id='word_1_13' title='bbox 28 222 217 268; x_wconf 51' lang='lat' dir='ltr'><em>&amp;himm-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 501 495 646">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 106 501 484 646">
+     <span class='ocr_line' id='line_1_4' title="bbox 107 501 467 575; baseline 0.02 -22.059"><span class='ocrx_word' id='word_1_14' title='bbox 107 501 322 575; x_wconf 53' lang='lat' dir='ltr'><em>{mmmm</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 316 516 368 559; x_wconf 60' lang='lat' dir='ltr'><em>rein</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 375 513 467 566; x_wconf 51' lang='lat' dir='ltr'><em>mma</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 103 574 495 646; baseline 0.019 -21.056"><span class='ocrx_word' id='word_1_17' title='bbox 103 574 260 629; x_wconf 29' lang='lat' dir='ltr'><em>&amp;aazias</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 241 582 495 646; x_wconf 43' lang='grc' dir='ltr'><em>,ψέῖκςεμτωῘωτςε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 618 2024">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 618 2024">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 618 2024; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 618 2024; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
